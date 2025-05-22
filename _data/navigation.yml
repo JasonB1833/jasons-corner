@@ -22,15 +22,16 @@ foo:
 main:
   #- title: "Quick-Start Guide"
   #  url: /docs/quick-start-guide/
-  - title: "About"
+  - title: "About Me"
     url: /about/
   - title: "Blog"
     url: /blog/
-  #- title: "Sample Collections"
-  #  url: /collection-archive/
-  - title: "Terms &amp; Privacy Policy"
-    url: /terms/
-
+  - title: "Projects"
+    url: /portfolio/
+ # - title: "Sample Collections"
+ #   url: /collection-archive/
+ # - title: "Terms &amp; Privacy Policy"
+ #   url: /terms/
 
 # documentation links
 docs:

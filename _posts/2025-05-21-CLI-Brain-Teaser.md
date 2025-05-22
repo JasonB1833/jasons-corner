@@ -18,3 +18,5 @@ The overarching idea is simple: build a lightweight puzzle game that allows user
 Currently it is as simple as that but at some point I would like to add a sort of study guide to aid those who haven't touched the material
 
 The display is going to be built using ncurses to be lightweight and not lock out any users with older hardware. The game loop will be fully built from the ground up and a lot of the mathematical handling of course will be using the 'math' header in C++. There are most definitely better utilities and languages I could've used but I can't help it I'm just a glutton for punishment and C/C++ provides me the whip with which to flagellate myself.
+
+This is going to be an ongoing development, as I've never made a CLI based app like this. I will update this post as changes come.
